@@ -1,0 +1,14 @@
+.Home__container {
+	display: flex;
+	background-image: url('../../assets/images/stars.svg');
+	background-size: contain;
+	background-color: #1b1b25;
+	align-items: center;
+	justify-content: center;
+	height: 93.8vh;
+	overflow: hidden;
+}
+
+.Home__container--logo {
+	color: white;
+}
